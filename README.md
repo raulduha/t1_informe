@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VNd8EOPO)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15614260&assignment_repo_type=AssignmentRepo)
 # Tarea 1 - Llamadas al sistema e implementación de una shell
 
 Para comprender con mayor claridad cómo funciona un sistema operativo, en la primera parte de este curso trabajarás con un kernel real. El kernel es una adaptación del de Unix versión 6 (1975), llamada xv6, que puede ejecutar en hardware x86 moderno, pues Unix versión 6 corría en un computador [PDP-11](https://en.wikipedia.org/wiki/PDP-11) en 1975. Dado que la gran parte de Unix fue escrita en el lenguaje de programación C, fue portado a lo largo de su historia a muchas arquitecturas, y ello es lo que permite que podamos trabajar con el en esta tarea.
